@@ -1,7 +1,7 @@
 # Vision-Health-Clinic
 Capstone Project: Diabetes Prediction Model
 Project Overview:
-The goal of this project is to develop a solid diabetes prediction model that helps Stark Health Clinic identify patients at risk of developing diabetes. This will enable timely intervention and reduce healthcare costs.
+The goal of this project is to develop a solid diabetes prediction model that helps Vision Health Clinic identify patients at risk of developing diabetes. This will enable timely intervention and reduce healthcare costs.
 The dataset used for this project is diabetes_prediction_dataset.csv, which contains patient data and relevant features that will help predict the likelihood of diabetes onset.
 
 Steps to Complete the Task:
